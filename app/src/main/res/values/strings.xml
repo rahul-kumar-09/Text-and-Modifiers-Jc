@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Composable and Modifiers</string>
+    <string name="hello_string">Text Composable</string>
+</resources>
